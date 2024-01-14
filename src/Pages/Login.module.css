@@ -1,0 +1,75 @@
+.login_container {
+  width: 100%;
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.login {
+  width: min(90%, 400px);
+  margin: 0 auto;
+  padding: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* align-items: center; */
+  gap: 10px;
+  background-color: rgb(255, 255, 255);
+  /* border: 2px solid rgba(128, 128, 128, 0.425); */
+  border-radius: 20px;
+  /* box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px; */
+}
+
+.login input {
+  width: 100%;
+  margin-block: 5px;
+  padding: 10px;
+  outline: none;
+  border: 1.5px solid transparent;
+  border-radius: 5px;
+  background-color: rgb(241, 241, 241);
+}
+
+.login button {
+  background-color: var(--main-color);
+  color: white;
+  border: none;
+  padding: 15px;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.login p {
+  font-size: 12px;
+  margin-top: 2px;
+  color: red;
+}
+
+.login .des {
+  color: grey;
+}
+.login h1 {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.login h2 {
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.loginHead {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.login img {
+  width: 130px;
+  margin: 0 auto;
+  border: 1px solid black;
+  /* height: 50px; */
+  aspect-ratio: 1/1;
+  border-radius: 50%;
+}
