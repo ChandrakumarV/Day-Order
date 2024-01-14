@@ -1,0 +1,25 @@
+{
+  "short_name": "Day Order",
+  "name": "GCA karur 3rd B.SC CS ( shift-1 )",
+  "icons": [
+    {
+      "src": "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

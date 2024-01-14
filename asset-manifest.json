@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Day-Order/static/css/main.37ea250a.css",
+    "main.js": "/Day-Order/static/js/main.39bb9bf7.js",
+    "static/media/user-logo.jpg": "/Day-Order/static/media/user-logo.6c900a205e7f841b5216.jpg",
+    "index.html": "/Day-Order/index.html",
+    "main.37ea250a.css.map": "/Day-Order/static/css/main.37ea250a.css.map",
+    "main.39bb9bf7.js.map": "/Day-Order/static/js/main.39bb9bf7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37ea250a.css",
+    "static/js/main.39bb9bf7.js"
+  ]
+}
